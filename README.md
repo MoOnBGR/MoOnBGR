@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./assets/cats.gif" alt="Banner" width="100%" height="10%"/>
+  <img src="./assets/gif.gif" alt="Banner" width="100%" height="200x"/>
 </div>
