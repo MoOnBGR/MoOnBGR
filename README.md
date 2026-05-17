@@ -1,9 +1,10 @@
-## Hi I'm Barbara!
 
 <div align="center">
   <img src="./assets/gif.gif" alt="Banner" width="100%" height="300x"/>
 </div>
 
+###
+<h1 align="center">Hi, I'm Bárbara</h1>
 ###
 
 <div  align="center">
@@ -35,3 +36,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+   <img src="  https://go-skill-icons.vercel.app/api/icons?i=oracle&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+ <img src="  https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="  https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="  https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="  https://go-skill-icons.vercel.app/api/icons?i=linux&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+<img src="  https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="  https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="  https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+
+
+###
