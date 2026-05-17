@@ -37,8 +37,6 @@
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="pack-Lenguages"  />
-  <img width="12" />
    <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
  <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=light" height="40" alt="pack-Lenguages"  />
