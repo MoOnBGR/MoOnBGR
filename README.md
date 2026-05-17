@@ -19,10 +19,19 @@
 ###
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,py,cs,js&theme=light" height="40" alt="pack-Lenguages"  />
+<img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-  
-<img src="https://skillicons.dev/icons?i=figma,html,,css&theme=light" height="40" alt="pack-Lenguages"  />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=figma&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html&theme=light" height="40" alt="pack-Lenguages"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
