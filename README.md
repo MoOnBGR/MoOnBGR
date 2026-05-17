@@ -39,21 +39,21 @@
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-   <img src="  https://go-skill-icons.vercel.app/api/icons?i=oracle&theme=light" height="40" alt="pack-Lenguages"  />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
- <img src="  https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=light" height="40" alt="pack-Lenguages"  />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-  <img src="  https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light" height="40" alt="pack-Lenguages"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-  <img src="  https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light" height="40" alt="pack-Lenguages"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-  <img src="  https://go-skill-icons.vercel.app/api/icons?i=linux&theme=light" height="40" alt="pack-Lenguages"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-<img src="  https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation&theme=light" height="40" alt="pack-Lenguages"  />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-  <img src="  https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=light" height="40" alt="pack-Lenguages"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-  <img src="  https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light" height="40" alt="pack-Lenguages"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
 </div>
 
