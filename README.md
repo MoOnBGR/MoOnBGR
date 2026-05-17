@@ -5,7 +5,6 @@
 
 ###
 <h1 align="center">Hi, I'm Bárbara</h1>
-###
 
 <div  align="center">
   <a href="https://www.linkedin.com/in/b%C3%A1rbara-garay-ruiz-73059b276/" target="_blank">
@@ -56,6 +55,6 @@
   <img width="12" />
   <img src="  https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light" height="40" alt="pack-Lenguages"  />
   <img width="12" />
-
+</div>
 
 ###
